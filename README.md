@@ -1,7 +1,10 @@
 
 [![Ali Mert KOCAMan](https://user-images.githubusercontent.com/74821442/184610615-eedeb202-5150-49d9-9bd1-d43bbdbe7012.png)](https://www.linkedin.com/in/alimertkocaman/)
 
-### Salut! I am Ali Mert👋
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut!+I+am+Ali+Mert!👋;Welcome+to+my+github+profile.🚀;I+hope+you+can+find+something+useful&duration=3000&pause=1000">
+</p>
 
 - 🔭 I am currently a student and studying Computer Engineering.
 - 🌱 I’m currently learning ML
