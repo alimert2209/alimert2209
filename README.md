@@ -1,6 +1,5 @@
 
-[![Ali Mert KOCAMan](https://user-images.githubusercontent.com/74821442/184604888-f904ece3-637f-4c45-b197-3b6c67d2ab6d.gif)](https://www.linkedin.com/in/alimertkocaman/)
-
+[![Ali Mert KOCAMan](https://user-images.githubusercontent.com/74821442/184610615-eedeb202-5150-49d9-9bd1-d43bbdbe7012.png)](https://www.linkedin.com/in/alimertkocaman/)
 
 ### Salut! I am Ali Mert👋
 
