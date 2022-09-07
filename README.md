@@ -8,7 +8,9 @@
 
 - 🔭 I am currently a student and studying Computer Engineering.
 - 🌱 I’m currently learning ML
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alimertkocaman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alimertkocaman/)](https://www.linkedin.com/in/alimertkocaman/)[![Gmail Badge](https://img.shields.io/badge/-alimert3215@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alimert3215@gmail.com)](mailto:alimert3215@gmail.com)
+- 📫 How to contact with me: <p align="left"><a href="https://www.linkedin.com/in/alimertkocaman/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="alimertkocaman" height="30" width="30" /></a><a href="instagram.com/printf_mertmio/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="alimertkocaman" height="30" width="30" /></a><a href="https://discordapp.com/users/295564549417992193" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="Discord ID: 295564549417992193" height="30" width="26" /></a>
+</p>
+
 
 <hr/>
 
