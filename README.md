@@ -41,7 +41,9 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alimert2209/alimert2209/output/github-contribution-grid-snake.svg" />
+  <a href="https://github.com/alimert2209">
+    <img src="https://raw.githubusercontent.com/alimert2209/alimert2209/output/github-contribution-grid-snake.svg"/>
+  </a>
 </p>
 
 ---
