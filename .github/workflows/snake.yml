@@ -1,33 +1,22 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
-    # Her 12 saatte bir çalışır
     - cron: "0 */12 * * *"
-  # İstenildiğinde manuel olarak çalıştırabilmeyi sağlar
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      
       - uses: Platane/snk@v3
         with:
-          # github user name to read the contribution graph from
-          github_user_name: ${{ github.repository_owner }}
-          
-          # output dosya yolları ve temalar
+          github_user_name: alimert2209
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      # Üretilen animasyonları "output" isimli bir branch'e (dala) yükler
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
